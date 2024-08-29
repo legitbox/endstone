@@ -95,7 +95,7 @@ install using wget
 wget https://raw.githubusercontent.com/legitbox/endstone/main/autoinstall.sh
 sudo chmod +x autoinstall.sh
 wget https://raw.githubusercontent.com/legitbox/endstone/main/start.sh
-sudo chmod +x autoinstall.sh
+sudo chmod +x start.sh
 ./autoinstall.sh
 ```
 
@@ -104,7 +104,7 @@ install using curl
 curl -O https://raw.githubusercontent.com/legitbox/endstone/main/autoinstall.sh
 sudo chmod +x autoinstall.sh
 curl -O https://raw.githubusercontent.com/legitbox/endstone/main/start.sh
-sudo chmod +x autoinstall.sh
+sudo chmod +x start.sh
 ./autoinstall.sh
 ```
 
